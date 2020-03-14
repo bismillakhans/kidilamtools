@@ -2,6 +2,6 @@
 
 
 ## for time slot booking services
- link:smoopit.com
+https://www.smoopit.com/
 ## for removing backgrounds from  video and gif 
- link:unsceen.com
+https://www.unscreen.com/upload
